@@ -1,5 +1,3 @@
-package com.datastructure.priorityqueue;
-
 /**
  * @author Rajat Mishra
  */
